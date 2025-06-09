@@ -1,5 +1,5 @@
 ---
-title: "Bài thực hành số 1"
+title: "Cookie Cats"
 author: "Nhóm 26"
 date: "10/28/2024"
 output: html_document
